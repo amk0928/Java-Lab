@@ -15,7 +15,6 @@ public class MapBenchmark {
     private Map<Integer, Integer> hashMap;
     private Map<Integer, Integer> hashtable;
     private Map<Integer, Integer> identityHashMap;
-    private Map<Integer, Integer> linkedHashMap;
     private Map<Integer, Integer> treeMap;
     private Map<Integer, Integer> weakHashMap;
     private Map<Integer, Integer> concurrentHashMap;
